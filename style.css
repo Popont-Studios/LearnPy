@@ -1,7 +1,6 @@
 
 #homepage-graphic-1 {
-  width: 682px;
-  height: 525px;
+  width: 90%;
   margin-right: -20px;
 }
 
@@ -9,6 +8,7 @@
   margin-top: 60px;
 }
 
-#col-no-1 {
-  margin-left: 20px;
+@media only screen and (min-width: 991px) {
+  #col-no-1 {
+  }
 }
