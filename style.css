@@ -2,8 +2,13 @@
 #homepage-graphic-1 {
   width: 682px;
   height: 525px;
+  margin-right: -20px;
 }
 
 #content {
   margin-top: 60px;
+}
+
+#col-no-1 {
+  margin-left: 20px;
 }
