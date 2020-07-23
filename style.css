@@ -30,8 +30,15 @@
   text-decoration: none;
   width: 10rem;
 }
-
-.navbar-light .navbar-nav .nav-link {
+.navbar-light .navbar-nav .start-learning .nav-link {
   color: white;
-  text-align: center;
+  text-align: center
+}
+
+.navbar-light .navbar-toggler {
+  border: none;
+}
+
+.dropdown-toggle::after {
+    display: none;
 }
