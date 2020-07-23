@@ -5,7 +5,7 @@
 }
 
 #content {
-  margin-top: 80px;
+  margin-top: 20px;
 }
 #col-no-1 h1 {
   font-family: "ABeeZee";
@@ -24,13 +24,13 @@
   font-family: "ABeeZee";
 	text-align: left;
 }
-.start-learning{
+.start-learning {
   background-color: rgb(38,103,255);
   border-radius: 75px;
   text-decoration: none;
   width: 10rem;
 }
-.navbar-light .navbar-nav .start-learning .nav-link {
+.navbar-light .navbar-nav .start-learning .nav-link, .start-learning a {
   color: white;
   text-align: center
 }
