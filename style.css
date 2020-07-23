@@ -15,4 +15,21 @@
   #col-no-1 h1 {
     font-size: 72px;
   }
+  #italic-btm-text {
+    font-size: 18px;
+  }
+}
+
+#italic-btm-text {
+  font-family: "ABeeZee";
+	text-align: left;
+}
+.start-learning{
+  background-color: rgb(38,103,255);
+  border-radius: 75px;
+  text-decoration: none;
+}
+
+.start-learning .navbar-light .navbar-nav .nav-link {
+  color: white;
 }
