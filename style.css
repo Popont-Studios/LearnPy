@@ -28,8 +28,10 @@
   background-color: rgb(38,103,255);
   border-radius: 75px;
   text-decoration: none;
+  width: 10rem;
 }
 
-.start-learning .navbar-light .navbar-nav .nav-link {
+.navbar-light .navbar-nav .nav-link {
   color: white;
+  text-align: center;
 }
